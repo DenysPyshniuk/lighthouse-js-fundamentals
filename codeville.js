@@ -1,6 +1,6 @@
 //------------Voting Station Calculation---------
 
-/* const stations = [
+const stations = [
   ['Big Bear Donair', 10, 'restaurant'],
   ['Bright Lights Elementary', 50, 'school'],
   ['Moose Mountain Community Centre', 45, 'community centre']
@@ -21,7 +21,7 @@
     }
   }
   return goodStations;
-} */
+}
 
 //------X Marks the Perfect Shot----
 
@@ -42,10 +42,10 @@ const finalPosition = (moves) => {
 
 //-------Age Calculator----------
 
-/* const ageCalculator = function (name, yearOfBirth, currentYear) {
+const ageCalculator = function (name, yearOfBirth, currentYear) {
   return name + ' is' + ' ' + (currentYear - yearOfBirth) + ' years old.';
 };
-console.log(ageCalculator('Anna', 1991, 2020)); */
+console.log(ageCalculator('Anna', 1991, 2020));
 
 //-------How Many Hundreds------
 
